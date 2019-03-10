@@ -5,7 +5,7 @@ This repo is a reminder for me to complete my study list
 
 ## Coursera: Data structure and algorithm specialization (UCSD)
   - [x] Algorithm toolbox
-  - [x] Data structure `Doing...`
+  - [x] Data structure ~~`Doing...`~~
   - [ ] Algorithms on graph
   - [ ] Algorithms on string
   - [ ] Advanced algorithms and complexcity
@@ -15,7 +15,7 @@ This repo is a reminder for me to complete my study list
 
 ## Coursera: C++ for C programmers
 
-  - [x] Part A `Doing...`
+  - [x] Part A ~~`Doing...`~~
   - [x] Part B
 
 # Interpretor and compiler
