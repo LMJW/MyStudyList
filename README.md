@@ -29,7 +29,7 @@ This repo is a reminder for me to complete my study list
 
 ## Cisco Networking Basics Specialization `Backlog`
 
-## Google IT support professional certificate?? `backlog`
+~~## Google IT support professional certificate?? `backlog`~~
 
 # System Design
 
